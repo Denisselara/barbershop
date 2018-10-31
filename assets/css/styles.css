@@ -1,0 +1,65 @@
+
+.img__logonav{
+  width: 30%;
+  margin-top: 0;
+}
+
+.img-responsive{
+  width: 100%;
+}
+
+.col-md-12{
+  padding: 0;
+}
+
+.navbar{
+  margin:0;
+}
+
+.banner{
+  width: 100%;
+
+}
+
+.jumbotron{
+  background-image: url("../img/post-image.jpg");
+  width: 100%;
+  background-size: cover;
+  color: #FFFFFF;
+  border-radius: 0px;
+  height: 90vh;
+}
+
+.titulo_banner{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  padding-top: 20vh;
+}
+
+.titulo__fecha{
+font-family: 'Playfair Display', serif;
+font-weight: regular 400;
+float: left;
+padding-top: 1vh;
+}
+
+.iconos{
+  text-align: center;
+}
+
+.iconos__fecha{
+  float: left;
+  padding-right: 1vh;
+}
+
+.container{
+ margin-left: auto;
+ margin-right: auto;
+ width: 60%;
+  color: #323333;
+}
+
+.parrafo__entrada{
+  font-family: 'Roboto', sans-serif;
+  color: #323333;
+}
