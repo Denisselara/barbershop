@@ -69,29 +69,15 @@ Ejercicio de maquetación 02
      .......................................
 
 ###  Imágenes:
-     Logotipo en 2 versiones fondo claro y oscuro, formato png transparente.
-     2 imagenes representativas de tomates organicos
-     2 imagenes de integrantes equipo de trabajo
+    
 
  ### Iconos redes sociales:
-     Diseño de iconos redes sociales, estos no fueron entregados por el diseñador.
+
 ## - SKETCH DESKTOP
-![](img-maqueta/sketch-desktop.png?raw=true)
+
 
 
 ## - SKETCH MOBIL
-![](img-maqueta/sketch-mobil.png?raw=true)
+
 
 ## - CLASES PARA CSS
-
-.navbar{}
-.navbar-logo{}
-.navbar-navigation{}
-.encabezado{}
-.block
-.block--grey{}
-.block--white{}
-.img-responsive{}
-.boton-tiatomate{}
-.container{}
-.container-fluid{}
