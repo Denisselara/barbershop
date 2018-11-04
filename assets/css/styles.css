@@ -1,6 +1,6 @@
 
 .img__logonav{
-  width: 30%;
+  width: 10vh;
   margin-top: 0;
 }
 
@@ -14,6 +14,17 @@
 
 .navbar{
   margin:0;
+}
+
+.navbar-header{
+  width: auto;
+  box-sizing: border-box;
+}
+
+.navbar-nav{
+width: 60vh;
+  box-sizing: border-box;
+  float: right;
 }
 
 .banner{
@@ -36,6 +47,10 @@
   padding-top: 20vh;
 }
 
+.blog{
+  padding: 0 2rem;
+}
+
 .titulo__fecha{
 font-family: 'Playfair Display', serif;
 font-weight: regular 400;
@@ -55,11 +70,91 @@ padding-top: 1vh;
 .container{
  margin-left: auto;
  margin-right: auto;
- width: 60%;
-  color: #323333;
+ color: #323333;
 }
 
 .parrafo__entrada{
   font-family: 'Roboto', sans-serif;
   color: #323333;
 }
+
+.path {
+  fill: white;
+}
+
+.destacado{
+  color: #D56C6A;
+}
+
+.botones{
+  margin-bottom: 5vh;
+}
+
+.btn_barbershop__heart{
+  background-color: #707070;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+.btn_barbershop__heart, .btn_barbershop__share path {
+  fill: white;
+}
+
+.btn_barbershop__heart:hover{
+  background-color: hsla(50, 30%, 60%, .20);
+  color: #444141;
+}
+
+.btn_barbershop__share{
+  background-color: #707070;
+  border-radius: 50px;
+}
+
+.btn_barbershop__share:hover{
+  background-color: hsla(50, 30%, 60%, .20);
+  color: #444141;
+}
+
+.btn_barbershop__twitter{
+  background-color: #707070;
+  border-radius: 30px;
+  color: white;
+}
+
+.btn_barbershop__twitter:hover{
+  background-color: hsla(50, 30%, 60%, .20);
+  color: #444141;
+}
+
+.autor{
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  border: solid 1px silver;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.circle{
+  width: 5vh;
+  height: 5vh;
+  border: solid 1px red;
+  border-radius: 50%;
+  background-color: white;
+  text-align: center;
+    display: inline-block;
+
+}
+
+.autor__titulo{
+  padding-left: 10vh;
+}
+
+    .footer{
+      background-color: black;
+      text-align: center;
+    }
+
+    .footer__img{
+      max-width: 100px;
+    }
